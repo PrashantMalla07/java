@@ -1,0 +1,4 @@
+ID: 1, Name: prashant, Salary: 200000,City.pokhara
+ID: 2, Name: samyog, Salary: 150000,City.jhapa
+ID: 3, Name: amrit, Salary: 100000,City.jhapa
+ID: 4, Name: samir, Salary: 250000,City.butwal
